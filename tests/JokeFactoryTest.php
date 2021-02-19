@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Serjik94\ComposerPackage\Tests;
+namespace Seralexs\ComposerPackage\Tests;
 
 use PHPUnit\Framework\TestCase;
-use Serjik94\ComposerPackage\JokeFactory;
+use Seralexs\ComposerPackage\JokeFactory;
 
 class JokeFactoryTest extends TestCase
 {

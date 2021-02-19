@@ -1,6 +1,6 @@
 <?php
 
-namespace Serjik94\ComposerPackage;
+namespace Seralexs\ComposerPackage;
 
 use phpDocumentor\Reflection\Types\Void_;
 

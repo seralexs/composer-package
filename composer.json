@@ -17,12 +17,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Serjik94\\ComposerPackage\\": "src/"
+            "Seralexs\\ComposerPackage\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Serjik94\\ComposerPackage\\Tests\\": "tests/"
+            "Seralexs\\ComposerPackage\\Tests\\": "tests/"
         }
     }
 }
